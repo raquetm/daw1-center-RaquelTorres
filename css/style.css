@@ -1,0 +1,12 @@
+body, html{
+    height: 100%;
+}
+
+body{
+    font-family: 'Barlow', sans-serif;
+}
+
+*{
+    color: #FFF;
+    background-color: black; /*borrar luego estooooooooo*/
+}
